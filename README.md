@@ -1,2 +1,2 @@
 # vagrant_box_base
-Base vagrant box by hva devteam
+Base vagrant box by hva devteam.

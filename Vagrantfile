@@ -134,7 +134,7 @@ config.vm.provider :virtualbox do |v|
     s.path = 'scripts/provision_nmap.sh'
     s.privileged = true
   end
-
+#10
 
   # provision maven
   config.vm.provision 'shell' do |s|
